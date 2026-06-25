@@ -1,4 +1,4 @@
-# Hi there, I'm Naidu Abhinaya 👋
+# Hi,I'm Naidu Abhinaya 👋
 
 🎓 **B.Tech CSE (AI & ML) Student | 2023–2027**
 💡 Passionate about Software Development, Problem Solving, and building solutions for real-world challenges.
